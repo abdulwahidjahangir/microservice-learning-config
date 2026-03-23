@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to WahidBank accounts related Prod APIs "
+  message: "Welcome to WahidBank accounts related Production APIs "
   contactDetails:
     name: "Wahid - Prod Lead"
     email: "{cipher}72c642374d2394dd7383507382ddabab3816cd27185fb070657cc4b44970291d23d596b082f4c23b3561d9ea1140cdf0"
