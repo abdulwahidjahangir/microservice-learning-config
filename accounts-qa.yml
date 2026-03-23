@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to WahidBank accounts related QA APIs "
+  contactDetails:
+    name: "Wahid - QA Lead"
+    email: "wahid@wahidbank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345
