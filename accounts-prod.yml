@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to WahidBank accounts related Prod APIs "
   contactDetails:
     name: "Wahid - Prod Lead"
-    email: "wahid@wahidbank.com"
+    email: "{cipher}72c642374d2394dd7383507382ddabab3816cd27185fb070657cc4b44970291d23d596b082f4c23b3561d9ea1140cdf0"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
